@@ -6,7 +6,7 @@ function Message({ user }) {
       <h3>Hello {user}</h3>
           <p>This is a page that welcomes a user.</p>
           <h2> Test</h2>
-      <h1> Changes are here </h1>
+      <h5> FInal test</h5>
     </div>
   );
 }
